@@ -1,6 +1,9 @@
-import { Link } from "react-router-dom"
+import { Link } from "react-router-dom";
+import { useState } from "react";
 
 export default function Header() {
+  const [isMenuOpen, setIsMenuOpen] = useState(false);
+
   return (
     <header className="header">
       <div className="header-container">
@@ -9,7 +12,7 @@ export default function Header() {
           LegisHonduras
         </Link>
 
-        <nav>
+        <nav className={`nav-desktop ${isMenuOpen ? "hidden" : ""}`}>
           <ul className="nav">
             <li>
               <Link to="/">Inicio</Link>
@@ -29,15 +32,32 @@ export default function Header() {
           </ul>
         </nav>
 
-        <div className="auth-buttons">
-          <Link to="/login" className="btn btn-outline">
-            Iniciar Sesión
-          </Link>
-          <Link to="/registro" className="btn btn-primary">
-            Registro
-          </Link>
-        </div>
+        <button className={`hamburger ${isMenuOpen ? "active" : ""}`} onClick={() => setIsMenuOpen(!isMenuOpen)}>
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+      </div>
+
+      <div className={`nav-mobile ${isMenuOpen ? "active" : ""}`}>
+        <ul className="nav">
+          <li>
+            <Link to="/" onClick={() => setIsMenuOpen(false)}>Inicio</Link>
+          </li>
+          <li>
+            <Link to="/leyes" onClick={() => setIsMenuOpen(false)}>Leyes</Link>
+          </li>
+          <li>
+            <Link to="/codigos" onClick={() => setIsMenuOpen(false)}>Códigos</Link>
+          </li>
+          <li>
+            <Link to="/documentos" onClick={() => setIsMenuOpen(false)}>Documentos</Link>
+          </li>
+          <li>
+            <Link to="/contacto" onClick={() => setIsMenuOpen(false)}>Contacto</Link>
+          </li>
+        </ul>
       </div>
     </header>
-  )
+  );
 }
