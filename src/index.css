@@ -880,3 +880,25 @@ html, body {
   color: #666;
   padding: clamp(20px, 5vw, 40px) 0;
 } 
+
+.suggestion-group {
+  margin-bottom: 12px;
+}
+
+.suggestion-header {
+  font-size: clamp(12px, 2.2vw, 14px);
+  font-weight: 600;
+  color: #666;
+  padding: 8px clamp(16px, 4vw, 20px);
+  background-color: #f8f9fa;
+  border-bottom: 1px solid #e0e0e0;
+  border-top: 1px solid #e0e0e0;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin: 0;
+}
+
+.suggestion-item .suggestion-description,
+.suggestion-item .suggestion-meta {
+  display: none;
+} 
