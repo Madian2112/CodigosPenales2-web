@@ -18,7 +18,7 @@ export default function CodeCard({ id, title, description, decreto, actualizado 
         <span className="law-date">{actualizado}</span>
       </div>
       <div className="card-buttons-container">
-        <Link to={`/codigos/${id}`} className="btn btn-primary">
+        <Link to={`/codigos/${id}`} className="btn btn-primary" onClick={() => console.log(`/codigos/${id}`)}>
           Ver Artículos
         </Link>
         <a href={`/pdfs/${id}.pdf`} download className="btn btn-secondary">
