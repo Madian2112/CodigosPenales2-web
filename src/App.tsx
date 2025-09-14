@@ -12,8 +12,11 @@ export default function HomePage() {
         {/* Hero Section */}
         <section className="hero">
           <div className="main-container">
-            <h1>Toda la Legislación Hondureña en un solo lugar</h1>
-            <p>Accede de manera rápida, centralizada y confiable a leyes, decretos y reglamentos</p>
+          <h1>Toda la Legislación Hondureña en un solo lugar</h1>
+          <p>Esta plataforma ha sido creada con el propósito de brindar un acceso rápido, centralizado y confiable a todos los 
+            documentos legales de la República de Honduras, facilitando su consulta en un solo sitio.
+          </p>
+    
 
             {/* Search Section */}
             <SearchBox />

@@ -1,12 +1,12 @@
 import { useParams } from "react-router-dom";
 import { useState, useMemo } from "react";
 import Header from "../components/Header";
-import { allCodigos } from "../core";
+import { allLeyes } from "../core";
 
-export default function CodigoArticuloPage() {
+export default function LeyArticuloPage() {
   const { codigoId } = useParams<{ codigoId: string }>();
   const [searchTerm, setSearchTerm] = useState("");
-  const codigo = codigoId ? allCodigos[codigoId] : null;
+  const codigo = codigoId ? allLeyes[codigoId] : null;
 
   const filteredEstructura = useMemo(() => {
     if (!codigo) return [];

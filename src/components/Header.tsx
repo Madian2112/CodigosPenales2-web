@@ -40,9 +40,6 @@ export default function Header() {
               <li>
                 <Link to="/documentos">Documentos</Link>
               </li>
-              <li>
-                <Link to="/contacto">Contacto</Link>
-              </li>
             </ul>
           </nav>
 
@@ -69,9 +66,6 @@ export default function Header() {
           </li>
           <li>
             <Link to="/documentos" onClick={() => setIsMenuOpen(false)}>Documentos</Link>
-          </li>
-          <li>
-            <Link to="/contacto" onClick={() => setIsMenuOpen(false)}>Contacto</Link>
           </li>
         </ul>
       </div>

@@ -5,6 +5,9 @@ import HomePage from "./App"
 import LeyesPage from "./pages/Leyes"
 import CodigosPage from "./pages/Codigos";
 import CodigoArticuloPage from "./pages/CodigoArticuloPage";
+import LeyArticuloPage from "./pages/LeyArticuloPage";
+import DocumentosPage from "./pages/Documentos";
+import DocumentoArticuloPage from "./pages/DocumentoArticuloPage"
 // import "./globals.css"
 
 ReactDOM.createRoot(document.getElementById("root")!).render(
@@ -13,8 +16,11 @@ ReactDOM.createRoot(document.getElementById("root")!).render(
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="/leyes" element={<LeyesPage />} />
+        <Route path="/leyes/:codigoId" element={<LeyArticuloPage />} />
         <Route path="/codigos" element={<CodigosPage />} />
         <Route path="/codigos/:codigoId" element={<CodigoArticuloPage />} />
+        <Route path="/documentos" element={<DocumentosPage />} />
+        <Route path="/documentos/:codigoId" element={<DocumentoArticuloPage />} />
         {/* Agrega más rutas aquí si las necesitas */}
       </Routes>
     </BrowserRouter>

@@ -1,0 +1,459 @@
+{
+    "id": "documento-ley-general-ambiente",
+    "titulo": "Ley General del Ambiente",
+    "estructura": [
+      {
+        "secciones": [
+          {
+            "tituloSeccion": "Artículos",
+            "articulos": [
+              {
+                "numero": "Artículo 1",
+                "texto": "La protección, conservación, restauración y manejo sostenible del ambiente y de los recursos naturales son de utilidad pública y de interés común. El Gobierno Central y las municipalidades propiciarán la utilización racional y el manejo sostenible de esos recursos, a fin de permitir su preservación y aprovechamiento."
+              },
+              {
+                "numero": "Artículo 2",
+                "texto": "A los efectos de esta ley, se entiende por ambiente el conjunto formado por los recursos naturales, culturales y el espacio rural y urbano, que puede verse alterado por agentes físicos, químicos o biológicos, o por otros factores debido a causas naturales o actividades humanas, todos ellos susceptibles de afectar, directa o indirectamente, las condiciones de vida del hombre y el desarrollo de la nación."
+              },
+              {
+                "numero": "Artículo 3",
+                "texto": "Los recursos naturales no renovables deben aprovecharse de modo que se prevenga su agotamiento y la generación de efectos ambientales negativos en el ambiente. Los recursos naturales renovables deben ser aprovechados de acuerdo a sus funciones ecológicas, económicas y sociales en forma sostenible."
+              },
+              {
+                "numero": "Artículo 4",
+                "texto": "Es de interés público, el ordenamiento integral del territorio nacional considerando los aspectos ambientales y los factores económicos, demográficos y sociales. Los proyectos públicos y privados que incidan en el ambiente, se diseñarán y ejecutarán teniendo en cuenta la interrelación de todos los recursos naturales y la interdependencia del hombre con su ambiente."
+              },
+              {
+                "numero": "Artículo 5",
+                "texto": "Los proyectos, instalaciones industriales o cualquier otra actividad pública o privada, susceptible de contaminar o degradar el ambiente, los recursos naturales o el patrimonio histórico cultural de la nación, serán precedidos obligatoriamente de una evaluación de impacto ambiental (EIA), que permita prevenir los posibles efectos negativos."
+              },
+              {
+                "numero": "Artículo 6",
+                "texto": "Las disposiciones de la presente Ley y de las leyes sectoriales referente a la protección de la salud humana y a la protección, conservación, restauración y manejo de los recursos naturales y del ambiente, serán de obligatoria aplicación en las evaluaciones (EIA), a que se refiere el Artículo 5."
+              },
+              {
+                "numero": "Artículo 7",
+                "texto": "El Estado adoptará cuantas medidas sean necesarias para prevenir o corregir la contaminación del ambiente. Se entiende por contaminación toda alteración o modificación del ambiente que pueda perjudicar la salud humana, atentar contra los recursos naturales y afectar los recursos en general de la nación."
+              },
+              {
+                "numero": "Artículo 8",
+                "texto": "Se prohíbe la introducción al país de desechos tóxicos, radioactivos, basuras domiciliarias, cienos o lodos cloacales y otros considerados perjudiciales o peligrosos. El territorio y las aguas nacionales no podrán utilizarse como depósito de tales materiales."
+              },
+              {
+                "numero": "Artículo 9",
+                "texto": "Son objetivos específicos de la presente Ley: propiciar un marco adecuado para actividades compatibles con la conservación y uso sostenible de los recursos naturales; establecer mecanismos para el equilibrio ecológico; promover la participación ciudadana; fomentar la educación ambiental; elevar la calidad de vida; entre otros."
+              },
+              {
+                "numero": "Artículo 10",
+                "texto": "Créase la Secretaría de Estado en el Despacho del Ambiente, responsable de cumplir y hacer cumplir la legislación ambiental de Honduras; de la formulación y coordinación de políticas nacionales sobre el ambiente; y de la coordinación institucional en materia ambiental."
+              },
+              {
+                "numero": "Artículo 11",
+                "texto": "Corresponde a la Secretaría de Estado en el Despacho del Ambiente: definir objetivos y políticas ambientales; coordinar actividades de organismos públicos; vigilar el cumplimiento de tratados internacionales; crear el Sistema Nacional de Evaluación de Impacto Ambiental; promover investigaciones; entre otras funciones."
+              },
+              {
+                "numero": "Artículo 12",
+                "texto": "Las atribuciones y deberes del Secretario de Estado en el Despacho del Ambiente son las establecidas en el Artículo 36 de la Ley General de la Administración Pública y las contenidas en esta Ley."
+              },
+              {
+                "numero": "Artículo 13",
+                "texto": "Créase el Consejo Consultivo Nacional del Ambiente como órgano asesor del Secretario de Estado en el Despacho del Ambiente, integrado por representantes de diversas instituciones gubernamentales y sectores sociales."
+              },
+              {
+                "numero": "Artículo 14",
+                "texto": "Créase el Comité Técnico Asesor a nivel especializado técnico científico, conformado por representantes del sector privado y público, como un órgano de apoyo de la Secretaría de Estado en el Despacho del Ambiente."
+              },
+              {
+                "numero": "Artículo 15",
+                "texto": "El Reglamento Interno establecerá la organización y funcionamiento del Comité Técnico Asesor."
+              },
+              {
+                "numero": "Artículo 16",
+                "texto": "Créase la Procuraduría del Ambiente, que dependerá de la Procuraduría General de la República y representará administrativa y judicialmente los intereses del Estado en materia ambiental."
+              },
+              {
+                "numero": "Artículo 17",
+                "texto": "El Procurador del Ambiente será electo por el Congreso Nacional, durará cinco años, deberá ser hondureño por nacimiento, abogado y poseer reconocida honradez y conciencia ambientalista."
+              },
+              {
+                "numero": "Artículo 18",
+                "texto": "El Procurador y el Subprocurador del Ambiente tendrán los mismos privilegios e inmunidades que el Procurador General de la República. Su salario y gastos afectarán el Presupuesto General de la República."
+              },
+              {
+                "numero": "Artículo 19",
+                "texto": "Las acciones civiles y criminales en materia ambiental serán realizadas directamente por la Procuraduría del Ambiente. El Procurador tendrá las facultades de un Apoderado General."
+              },
+              {
+                "numero": "Artículo 20",
+                "texto": "En el cumplimiento de sus funciones, la Procuraduría del Ambiente gozará de plena autonomía, salvo en los casos que conforme a la ley deba atender instrucciones especiales."
+              },
+              {
+                "numero": "Artículo 21",
+                "texto": "La Procuraduría del Ambiente contará con la asistencia obligatoria de fiscales, asesores legales y representantes de corporaciones municipales para el cumplimiento de su función."
+              },
+              {
+                "numero": "Artículo 22",
+                "texto": "El prestar servicios a la Procuraduría del Ambiente es incompatible con cualquier otro cargo retribuido de gestión profesional o de negocios propios o ajenos dentro del mismo campo ambiental."
+              },
+              {
+                "numero": "Artículo 23",
+                "texto": "En toda clase de juicios, gestiones y trámites, la Procuraduría del Ambiente usará papel simple; gozará de franquicia postal y de comunicación."
+              },
+              {
+                "numero": "Artículo 24",
+                "texto": "Toda persona citada por la Procuraduría del Ambiente deberá comparecer personalmente o por apoderado; si no compareciere en segunda citación, se le considerará desacato a la autoridad."
+              },
+              {
+                "numero": "Artículo 25",
+                "texto": "Todas las dependencias del Estado y particulares están obligados a cumplir los requerimientos que para el cumplimiento de sus funciones reciba de la Procuraduría del Ambiente."
+              },
+              {
+                "numero": "Artículo 26",
+                "texto": "El reglamento de esta Ley establecerá el funcionamiento y régimen interno de la Procuraduría del Ambiente."
+              },
+              {
+                "numero": "Artículo 27",
+                "texto": "Las atribuciones que corresponden al Estado en materia de protección ambiental serán ejercidas por los organismos del Poder Ejecutivo e instituciones descentralizadas y por las municipalidades en su jurisdicción, coordinando sus actividades con la Secretaría de Estado en el Despacho del Ambiente."
+              },
+              {
+                "numero": "Artículo 28",
+                "texto": "Al Poder Ejecutivo le corresponde: ejecutar la política ambiental; planificar el aprovechamiento racional de los recursos naturales; administrar áreas protegidas; controlar la emisión de contaminantes; prevenir desastres; entre otras atribuciones."
+              },
+              {
+                "numero": "Artículo 29",
+                "texto": "A las municipalidades les corresponde: ordenar el desarrollo urbano; proteger fuentes de agua; preservar el equilibrio ecológico; controlar actividades contaminantes; preservar valores históricos y culturales; entre otras."
+              },
+              {
+                "numero": "Artículo 30",
+                "texto": "Corresponde al Estado y a las municipalidades el manejo, protección y conservación de las cuencas y depósitos naturales de agua. Los usuarios del agua están obligados a utilizarla racionalmente."
+              },
+              {
+                "numero": "Artículo 31",
+                "texto": "Serán objeto de protección especial las aguas destinadas al consumo humano, riego, producción de alimentos, viveros naturales, y las que se encuentran en zonas protegidas."
+              },
+              {
+                "numero": "Artículo 32",
+                "texto": "Se prohíbe verter en aguas continentales o marítimas sustancias que puedan afectar la salud humana o la vida acuática, o alterar el equilibrio ecológico."
+              },
+              {
+                "numero": "Artículo 33",
+                "texto": "Se prohíbe ubicar asentamientos humanos, bases militares o instalaciones industriales en áreas de influencia de fuentes de agua potable o de riego, cuyos residuos presenten riesgos de contaminación."
+              },
+              {
+                "numero": "Artículo 34",
+                "texto": "Se ejecutarán proyectos de ordenamiento de cuencas hidrográficas para proteger contra efectos nocivos de las aguas. Todo proyecto hidroeléctrico o de irrigación requerirá un plan de ordenamiento hidrológico y una EIA."
+              },
+              {
+                "numero": "Artículo 35",
+                "texto": "Se declara de interés público la protección de la naturaleza, incluyendo la preservación de bellezas escénicas y la conservación y manejo de la flora y fauna."
+              },
+              {
+                "numero": "Artículo 36",
+                "texto": "Créase el Sistema de Áreas Protegidas, formado por reservas biológicas, antropológicas, áreas insulares y otras categorías de manejo necesarias."
+              },
+              {
+                "numero": "Artículo 37",
+                "texto": "En el establecimiento de áreas naturales protegidas participarán las municipalidades en cuya jurisdicción se localicen, para propiciar el desarrollo integral de la comunidad y asegurar la protección del ambiente."
+              },
+              {
+                "numero": "Artículo 38",
+                "texto": "Para el manejo adecuado de las áreas protegidas podrán establecerse zonas de amortiguamiento, donde los propietarios podrán realizar actividades productivas sujetas a normas técnicas."
+              },
+              {
+                "numero": "Artículo 39",
+                "texto": "La declaración de áreas protegidas se hará mediante Acuerdo del Poder Ejecutivo, previa consulta con municipios y siguiendo el procedimiento reglamentario."
+              },
+              {
+                "numero": "Artículo 40",
+                "texto": "La declaración de áreas protegidas permite imponer restricciones o obligaciones a los propietarios para lograr los fines de utilidad pública. El Estado podrá adquirir terrenos para estos fines."
+              },
+              {
+                "numero": "Artículo 41",
+                "texto": "Se entiende por flora y fauna protegidas aquellas especies que deben ser objeto de protección especial por su rareza o peligro de extinción. Se prohíbe su explotación, caza, captura o comercialización."
+              },
+              {
+                "numero": "Artículo 42",
+                "texto": "Animales de caza son los animales silvestres que pueden ser objeto de caza previa licencia. Se establecerán especies, épocas de veda, zonas y límites de captura."
+              },
+              {
+                "numero": "Artículo 43",
+                "texto": "El señalamiento de especies protegidas, vedas y límites de captura se hará mediante Acuerdo del Poder Ejecutivo."
+              },
+              {
+                "numero": "Artículo 44",
+                "texto": "Solo podrán exportar o importar especies silvestres quienes obtengan licencia previa de COHDEFOR, con estudios pertinentes y pago de aranceles."
+              },
+              {
+                "numero": "Artículo 45",
+                "texto": "El recurso forestal deberá ser manejado bajo el principio de protección de la biodiversidad, rendimiento sostenible y uso múltiple."
+              },
+              {
+                "numero": "Artículo 46",
+                "texto": "La Administración Forestal otorgará permisos de aprovechamiento forestal siempre que se presente un plan de manejo que asegure uso sostenible."
+              },
+              {
+                "numero": "Artículo 47",
+                "texto": "Es de interés público la protección de bosques contra incendios, plagas y actividades nocivas. Las municipalidades participarán en prevención."
+              },
+              {
+                "numero": "Artículo 48",
+                "texto": "Los suelos deberán usarse racionalmente y compatible con su vocación natural, manteniendo su capacidad productiva."
+              },
+              {
+                "numero": "Artículo 49",
+                "texto": "Quienes realicen actividades agropecuarias deberán conservar o incrementar la fertilidad de los suelos, previniendo su degradación."
+              },
+              {
+                "numero": "Artículo 50",
+                "texto": "Los suelos en pendientes pronunciadas deberán mantenerse en cubierta vegetal permanente y no les serán aplicables las disposiciones de la Ley de Reforma Agraria."
+              },
+              {
+                "numero": "Artículo 51",
+                "texto": "La utilización del suelo urbano será objeto de planificación municipal, considerando sectores residenciales, comerciales, industriales y recreativos."
+              },
+              {
+                "numero": "Artículo 52",
+                "texto": "Las industrias susceptibles de contaminar se ubicarán en zonas que no dañen el ecosistema ni la salud. Se requerirá permiso municipal previo dictamen ambiental."
+              },
+              {
+                "numero": "Artículo 53",
+                "texto": "La instalación de industrias susceptibles de deteriorar el ambiente estará sujeta a Estudio de Impacto Ambiental que acredite que no causará daños."
+              },
+              {
+                "numero": "Artículo 54",
+                "texto": "La descarga de desechos solo podrá realizarse en lugares autorizados y conforme a regulaciones técnicas y ordenanzas municipales."
+              },
+              {
+                "numero": "Artículo 55",
+                "texto": "Se entiende por recursos marinos y costeros: aguas del mar, playas, manglares, arrecifes, estuarios y recursos naturales en el mar territorial y zona económica exclusiva."
+              },
+              {
+                "numero": "Artículo 56",
+                "texto": "La explotación de recursos marinos estará sujeta a criterios técnicos de uso racional y aprovechamiento sostenible, con épocas de veda y criterios de repoblación."
+              },
+              {
+                "numero": "Artículo 57",
+                "texto": "El Poder Ejecutivo podrá delimitar zonas de protección de áreas marinas o costeras, sujetas a planes de manejo para prevenir contaminación o degradación."
+              },
+              {
+                "numero": "Artículo 58",
+                "texto": "La ejecución de obras en costas se hará sin dañar la franja litoral ni causar cambios ecológicos significativos, previo estudio de impacto."
+              },
+              {
+                "numero": "Artículo 59",
+                "texto": "Es de interés público evitar la contaminación del aire por gases, humos, polvo, partículas, radiactividad u otros vertidos perjudiciales."
+              },
+              {
+                "numero": "Artículo 60",
+                "texto": "El Poder Ejecutivo determinará normas técnicas sobre niveles permisibles de emisión de contaminantes al aire. Vehículos e industrias deben observar estas normas."
+              },
+              {
+                "numero": "Artículo 61",
+                "texto": "El Poder Ejecutivo reglamentará índices de tolerancia de ruidos, vibraciones, humo y otros contaminantes."
+              },
+              {
+                "numero": "Artículo 62",
+                "texto": "Las municipalidades no podrán autorizar actividades que produzcan emanaciones tóxicas o olores que afecten la salud o el bienestar de las personas."
+              },
+              {
+                "numero": "Artículo 63",
+                "texto": "Los recursos minerales e hidrocarburos se declaran de utilidad pública; su aprovechamiento debe sujetarse a regímenes especiales y observar normas ambientales."
+              },
+              {
+                "numero": "Artículo 64",
+                "texto": "Se prohíbe a concesionarios mineros o de hidrocarburos verter desechos tóxicos o no tóxicos sin tratamiento, que perjudiquen la salud o el ambiente."
+              },
+              {
+                "numero": "Artículo 65",
+                "texto": "La extracción de piedra, arena, sal, cal o fabricación de cemento se sujetarán a normas técnicas de prevención de impactos ambientales y sanitarios."
+              },
+              {
+                "numero": "Artículo 66",
+                "texto": "Los residuos sólidos y orgánicos deberán ser tratados técnica para evitar contaminación de suelos, aguas y aire."
+              },
+              {
+                "numero": "Artículo 67",
+                "texto": "Las municipalidades adoptarán sistemas de recolección, tratamiento y disposición final de residuos sólidos, incluyendo reutilización o reciclaje."
+              },
+              {
+                "numero": "Artículo 68",
+                "texto": "El Estado ejercerá control sobre la fabricación, importación, distribución, uso y disposición de agroquímicos y productos tóxicos o peligrosos."
+              },
+              {
+                "numero": "Artículo 69",
+                "texto": "El reglamento establecerá medidas de control en la generación, tratamiento, transporte y disposición de residuos tóxicos y peligrosos. No se permitirá su importación."
+              },
+              {
+                "numero": "Artículo 70",
+                "texto": "El patrimonio antropológico, arqueológico, histórico, artístico, cultural y étnico, y su entorno natural, están bajo protección del Estado."
+              },
+              {
+                "numero": "Artículo 71",
+                "texto": "Las etnias autóctonas tendrán apoyo estatal en sus sistemas tradicionales de uso de recursos naturales, que deberán estudiarse como modelos de desarrollo sostenible."
+              },
+              {
+                "numero": "Artículo 72",
+                "texto": "Se declaran de interés nacional los recursos turísticos naturales y culturales. Los proyectos turísticos deberán conservar valores naturales, paisajísticos, arquitectónicos e históricos."
+              },
+              {
+                "numero": "Artículo 73",
+                "texto": "Los proyectos turísticos en áreas protegidas se ejecutarán respetando planes de manejo y promoviendo el ecoturismo como fuente de empleo e ingresos."
+              },
+              {
+                "numero": "Artículo 74",
+                "texto": "El Estado, a través de la Secretaría de Salud Pública y con la colaboración de la Secretaría del Ambiente, vigilará el cumplimiento de leyes de saneamiento básico y contaminación."
+              },
+              {
+                "numero": "Artículo 75",
+                "texto": "Las municipalidades tomarán medidas de control de la contaminación ambiental según condiciones naturales, sociales y económicas locales."
+              },
+              {
+                "numero": "Artículo 76",
+                "texto": "El Poder Ejecutivo establecerá niveles permisibles de contaminación con base en investigaciones y normas internacionales."
+              },
+              {
+                "numero": "Artículo 77",
+                "texto": "Los principios y objetivos de esta Ley regirán la actividad ambiental de todos los organismos públicos y privados y podrán ser invocados en cualquier procedimiento."
+              },
+              {
+                "numero": "Artículo 78",
+                "texto": "Toda persona natural o jurídica que realice obras o actividades susceptibles de alterar gravemente el ambiente está obligada a informar y presentar una EIA."
+              },
+              {
+                "numero": "Artículo 79",
+                "texto": "No se podrá ejecutar obra o actividad sin aprobación de la EIA y autorización correspondiente."
+              },
+              {
+                "numero": "Artículo 80",
+                "texto": "Cualquier persona podrá denunciar actividades contaminantes o degradantes ante la autoridad competente."
+              },
+              {
+                "numero": "Artículo 81",
+                "texto": "Las inversiones en equipos de prevención o depuración de contaminantes serán deducibles de impuestos y exentas de aranceles de importación."
+              },
+              {
+                "numero": "Artículo 82",
+                "texto": "El Presidente de la República informará anualmente al Congreso sobre el estado del ambiente y las actividades desarrolladas."
+              },
+              {
+                "numero": "Artículo 83",
+                "texto": "Los organismos del Estado con competencia ambiental ejercerán acciones de inspección y vigilancia, con facultades para inspeccionar y exigir información."
+              },
+              {
+                "numero": "Artículo 84",
+                "texto": "La Secretaría de Educación incorporará la educación ambiental al Sistema Educativo Nacional, reformando estructuras académicas para formación e investigación."
+              },
+              {
+                "numero": "Artículo 85",
+                "texto": "El Estado requerirá de los medios de comunicación su aporte gratuito en la divulgación de programas de educación e información ambiental."
+              },
+              {
+                "numero": "Artículo 86",
+                "texto": "Todas las acciones u omisiones que infrinjan esta Ley serán sancionadas conforme a este Título, sin perjuicio de responsabilidades civiles o penales."
+              },
+              {
+                "numero": "Artículo 87",
+                "texto": "Las infracciones ambientales serán sancionadas con: reclusión, multa, clausura, suspensión de actividades, decomiso, cancelación de beneficios, indemnización o reposición."
+              },
+              {
+                "numero": "Artículo 88",
+                "texto": "Las sanciones se graduarán según: gravedad del daño, reincidencia, repercusión social y económica, y capacidad económica del responsable."
+              },
+              {
+                "numero": "Artículo 89",
+                "texto": "En la imposición de sanciones se notificarán los cargos y se garantizará el derecho de defensa del presunto infractor."
+              },
+              {
+                "numero": "Artículo 90",
+                "texto": "Será pública la acción para denunciar actos que violen la normativa ambiental. La autoridad informará al denunciante sobre el estado del proceso."
+              },
+              {
+                "numero": "Artículo 91",
+                "texto": "Las autoridades que cometan delitos o infracciones ambientales serán castigadas con la sanción correspondiente e inhabilitación de uno a cinco años."
+              },
+              {
+                "numero": "Artículo 92",
+                "texto": "Constituyen delitos ambientales: emitir contaminantes peligrosos; descargar contaminantes en aguas; fabricar o usar sustancias tóxicas sin observar normas; contaminar alimentos o bebidas."
+              },
+              {
+                "numero": "Artículo 93",
+                "texto": "Los delitos de emitir o descargar contaminantes peligrosos serán sancionados con reclusión de tres a diez años y sanciones accesorias."
+              },
+              {
+                "numero": "Artículo 94",
+                "texto": "Los delitos de fabricar o usar sustancias tóxicas o contaminar alimentos serán sancionados con reclusión de uno a cinco años y sanciones accesorias."
+              },
+              {
+                "numero": "Artículo 95",
+                "texto": "Las leyes sectoriales podrán tipificar otras infracciones constitutivas de delito ambiental."
+              },
+              {
+                "numero": "Artículo 96",
+                "texto": "Constituyen infracciones administrativas: violar planes de ordenamiento; impedir inspecciones; realizar actividades sin licencias; cazar especies protegidas; entre otras."
+              },
+              {
+                "numero": "Artículo 97",
+                "texto": "Las infracciones administrativas serán sancionadas con multa de L. 1,000.00 a L. 1,000,000.00, sin perjuicio de otras sanciones."
+              },
+              {
+                "numero": "Artículo 98",
+                "texto": "El Reglamento regulará las infracciones en graves, menos graves y leves."
+              },
+              {
+                "numero": "Artículo 99",
+                "texto": "Contra resoluciones administrativas cabrán recursos previstos en la Ley de Procedimiento Administrativo y acción contencioso-administrativa."
+              },
+              {
+                "numero": "Artículo 100",
+                "texto": "Créase la Red Nacional de Cuencas Hidrográficas para coordinar administración de recursos hídricos, integrada por varias instituciones gubernamentales."
+              },
+              {
+                "numero": "Artículo 101",
+                "texto": "Los planes de Ordenamiento Territorial buscarán uso apropiado de tierras forestales, agrícolas, ganaderas y costeras para desarrollo sostenible."
+              },
+              {
+                "numero": "Artículo 102",
+                "texto": "Las comunidades locales deben participar en acciones de defensa ambiental. Es de interés público la participación de organizaciones privadas en conservación."
+              },
+              {
+                "numero": "Artículo 103",
+                "texto": "Se establece el derecho de la población a ser informada sobre el estado del ambiente y las acciones gubernamentales en esta materia."
+              },
+              {
+                "numero": "Artículo 104",
+                "texto": "El Estado establecerá asignaciones presupuestarias para programas ambientales de organismos centralizados o descentralizados."
+              },
+              {
+                "numero": "Artículo 105",
+                "texto": "Es deber del Estado y la población participar en prevención, mitigación y atención de desastres naturales y rehabilitación de zonas afectadas."
+              },
+              {
+                "numero": "Artículo 106",
+                "texto": "Quien contamine el ambiente asumirá los costos de la acción u omisión, sin perjuicio de responsabilidades penales o civiles."
+              },
+              {
+                "numero": "Artículo 107",
+                "texto": "El Estado y la población velarán porque no se causen impactos ambientales negativos provenientes de actividades en otros países."
+              },
+              {
+                "numero": "Artículo 108",
+                "texto": "A las instalaciones contaminantes se les concederá plazo para corregir o trasladarse, con exenciones fiscales y deducciones de inversión."
+              },
+              {
+                "numero": "Artículo 109",
+                "texto": "La Contraloría General velará por el cumplimiento de obligaciones derivadas de la legislación ambiental."
+              },
+              {
+                "numero": "Artículo 110",
+                "texto": "El Poder Ejecutivo emitirá los reglamentos necesarios de esta Ley en un plazo no mayor de un año desde su entrada en vigencia."
+              },
+              {
+                "numero": "Artículo 111",
+                "texto": "Esta Ley entrará en vigencia veinte días después de su publicación en el Diario Oficial La Gaceta."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
