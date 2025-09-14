@@ -6,17 +6,17 @@ import { allDocumentos } from "../core";
 export default function DocumentoArticuloPage() {
   const { codigoId } = useParams<{ codigoId: string }>();
   const [searchTerm, setSearchTerm] = useState("");
-  const codigo = codigoId ? allDocumentos[codigoId] : null;
+  const documento = codigoId ? allDocumentos[codigoId] : null;
 
   const filteredEstructura = useMemo(() => {
-    if (!codigo) return [];
+    if (!documento) return [];
     if (!searchTerm) {
-      return codigo.estructura;
+      return documento.estructura;
     }
 
     const lowercasedFilter = searchTerm.toLowerCase();
 
-    return codigo.estructura
+    return documento.estructura
       .map((parte) => {
         const filteredSecciones = parte.secciones
           .map((seccion) => {
@@ -32,15 +32,15 @@ export default function DocumentoArticuloPage() {
         return { ...parte, secciones: filteredSecciones };
       })
       .filter((parte) => parte.secciones.length > 0);
-  }, [searchTerm, codigo]);
+  }, [searchTerm, documento]);
 
-  if (!codigo) {
+  if (!documento) {
     return (
       <>
         <Header />
         <main className="main-container" style={{ textAlign: 'center', padding: '40px 0' }}>
-          <h1>Código no encontrado</h1>
-          <p>El código que buscas no existe o no está disponible.</p>
+          <h1>Documento no encontrado</h1>
+          <p>El documento que buscas no existe o no está disponible.</p>
         </main>
       </>
     );
@@ -51,7 +51,7 @@ export default function DocumentoArticuloPage() {
       <Header />
       <main className="main-container">
         <div className="codigo-articulo-container">
-          <h1 className="codigo-titulo">{codigo.titulo}</h1>
+          <h1 className="codigo-titulo">{documento.titulo}</h1>
 
           <div className="search-articles-container">
             <input
