@@ -51,6 +51,14 @@ export default function CodigosPage() {
       decreto: "Decreto 189-1959",
       actualizado: "Actualizado 2023",
     },
+    {
+      id: "codigo-tributario",
+      title: "Código Tributario",
+      description:
+        "El presente Código contiene las normas a que estar n sujetas la aplicación, percepción y fiscalización de los tributos o impuestos, contribuciones y tasas vigentes en Honduras y las relaciones jurídicas emergentes de los mismos.",
+      decreto: "",
+      actualizado: "",
+    },
   ];
 
   return (

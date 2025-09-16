@@ -4,6 +4,7 @@ import codigoFamiliaData from "./codigos/codigo-familia/data.json";
 import codigoPenalData from "./codigos/codigo-penal/data.json";
 import codigoProcesalPenalData from "./codigos/codigo-procesal-penal/data.json";
 import codigoComercioData from "./codigos/codigo-comercio/data.json";
+import codigoTributarioData from "./codigos/codigo-tributario/data.json";
 
 import leyTransparenciaData from "./leyes/ley-transparencia/data.json";
 import leyTurismoData from "./leyes/ley-turismo/data.json";
@@ -23,6 +24,7 @@ const codigoFamilia: Articulo = codigoFamiliaData;
 const codigoPenal: Articulo = codigoPenalData;
 const codigoProcesalPenal: Articulo = codigoProcesalPenalData;
 const codigoComercio: Articulo = codigoComercioData;
+const codigoTributario: Articulo = codigoTributarioData;
 
 const leyTransparencia: Articulo = leyTransparenciaData;
 const leyTurismo: Articulo = leyTurismoData;
@@ -41,6 +43,7 @@ export const allCodigos: Record<string, Articulo> = {
     [codigoPenal.id]: codigoPenal,
     [codigoProcesalPenal.id]: codigoProcesalPenal,
     [codigoComercio.id]: codigoComercio,
+    [codigoTributario.id]: codigoTributario,
 };
 
 export const allLeyes: Record<string, Articulo> = {
