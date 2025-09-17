@@ -2,6 +2,7 @@ import { useEffect } from "react";
 import { useLocation } from "react-router-dom";
 import Header from "../components/Header";
 import LawCard from "../components/LawCard";
+import Footer from "../components/Footer";
 
 export default function LeyesPage() {
   const location = useLocation();
@@ -112,6 +113,8 @@ export default function LeyesPage() {
           </div>
         </section>
       </main>
+
+      <Footer />
     </>
   );
 }

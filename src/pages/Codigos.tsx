@@ -1,5 +1,6 @@
 import Header from "../components/Header";
 import CodeCard from "../components/CodeCard";
+import Footer from "../components/Footer";
 
 export default function CodigosPage() {
   const codigos = [
@@ -90,6 +91,7 @@ export default function CodigosPage() {
           </div>
         </section>
       </main>
+      <Footer />
     </>
   );
 }

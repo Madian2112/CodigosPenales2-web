@@ -2,6 +2,7 @@ import { useParams } from "react-router-dom";
 import { useState, useMemo } from "react";
 import Header from "../components/Header";
 import { allDocumentos } from "../core";
+import Footer from "../components/Footer";
 
 export default function DocumentoArticuloPage() {
   const { codigoId } = useParams<{ codigoId: string }>();
@@ -42,6 +43,7 @@ export default function DocumentoArticuloPage() {
           <h1>Documento no encontrado</h1>
           <p>El documento que buscas no existe o no está disponible.</p>
         </main>
+        <Footer />
       </>
     );
   }
@@ -90,6 +92,7 @@ export default function DocumentoArticuloPage() {
           )}
         </div>
       </main>
+      <Footer />
     </>
   );
 }

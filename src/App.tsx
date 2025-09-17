@@ -2,6 +2,7 @@ import Header from "./components/Header"
 import BenefitCard from "./components/BenefitCard"
 import SearchBox from "./components/SearchBox"
 import Layout from "./layout"
+import Footer from "./components/Footer"
 
 export default function HomePage() {
   return (
@@ -47,6 +48,8 @@ export default function HomePage() {
           </div>
         </section>
       </main>
+
+      <Footer />
     </Layout>
   )
 }

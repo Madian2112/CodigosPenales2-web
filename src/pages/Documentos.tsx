@@ -1,5 +1,6 @@
 import Header from "../components/Header";
 import DocumentCard from "../components/DocumentCard";
+import Footer from "../components/Footer";
 
 export default function DocumentosPage() {
   const documentos = [
@@ -55,6 +56,7 @@ export default function DocumentosPage() {
           </div>
         </section>
       </main>
+      <Footer />
     </>
   );
 }

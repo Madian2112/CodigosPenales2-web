@@ -2,6 +2,7 @@ import { useParams } from "react-router-dom";
 import { useState, useMemo } from "react";
 import Header from "../components/Header";
 import { allLeyes } from "../core";
+import Footer from "../components/Footer";
 
 export default function LeyArticuloPage() {
   const { codigoId } = useParams<{ codigoId: string }>();
@@ -42,6 +43,7 @@ export default function LeyArticuloPage() {
           <h1>Código no encontrado</h1>
           <p>El código que buscas no existe o no está disponible.</p>
         </main>
+        <Footer />
       </>
     );
   }
@@ -90,6 +92,7 @@ export default function LeyArticuloPage() {
           )}
         </div>
       </main>
+      <Footer />
     </>
   );
 }
